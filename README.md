@@ -96,3 +96,6 @@ TensorFlow Transfer Learning:
 https://www.tensorflow.org/hub/tutorials/image_feature_vector
 
 CNN are great for classifying images but they are hard to run. Pre-trained models are great for this. 
+
+https://link.springer.com/article/10.1007/s12652-021-03267-w
+
